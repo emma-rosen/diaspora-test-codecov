@@ -1,0 +1,28 @@
+#   Copyright (c) 2010-2013, Diaspora Inc.  This file is
+#   licensed under the Affero General Public License version 3 or later.  See
+#   the COPYRIGHT file.
+
+
+
+hi:
+  _applications: "ऍप्लिकेशन"
+  _services: "सेवाएं"
+  account: "खाता"
+  are_you_sure: "क्या आपको यकीन है?"
+  are_you_sure_delete_account: "क्या आप वाकई अपना खाता बंद करना चाहते हैं? इसे पूर्ववत नहीं किया जा सकता!"
+  aspects:
+    index:
+      help:
+        tag_question: "प्रश्न"
+  cancel: "रद्द करें"
+  delete: "मिटाओ"
+  email: "ईमेल"
+  fill_me_out: "मुझे भरें"
+  limited: "सीमित"
+  ok: "ठीक"
+  privacy: "गोपनीयता"
+  profile: "प्रोफ़ाइल"
+  public: "सार्वजनिक"
+  search: "खोज"
+  settings: "सेटिंग्स"
+  username: "उपयोगकर्ता नाम"
